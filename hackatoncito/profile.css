@@ -1,0 +1,30 @@
+.navbar{
+    height: auto;
+ }
+ .navbar .nav-item .nav-link{
+    color: #fff;
+ }
+ .footer{
+    height: 15vh;
+    background-color: #000000;
+    display: flex;
+    align-items: flex-end;
+    font-size: 2.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.perfil{
+    font-size: 30px;
+}
+
+.foto_imagen{
+    height: 10rem;
+    border-radius: 50%;
+}
+
+
+.avatar{
+    width: 45rem;
+    margin-left: 5rem;
+}

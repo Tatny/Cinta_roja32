@@ -1,0 +1,23 @@
+{
+  "name": "07-express",
+  "version": "1.0.0",
+  "description": "Esta es una práctica de express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "http"
+  ],
+  "author": "Tatny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "05-peticiones",
+  "version": "1.0.0",
+  "description": "Es la primera peticion",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "peticiones",
+    "node",
+    "request"
+  ],
+  "author": "Tatny ZM",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
